@@ -1,0 +1,13 @@
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\bin\Debug\netcoreapp3.1\SedolValidator.exe
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\bin\Debug\netcoreapp3.1\SedolValidator.deps.json
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\bin\Debug\netcoreapp3.1\SedolValidator.runtimeconfig.json
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\bin\Debug\netcoreapp3.1\SedolValidator.runtimeconfig.dev.json
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\bin\Debug\netcoreapp3.1\SedolValidator.dll
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\bin\Debug\netcoreapp3.1\SedolValidator.pdb
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\obj\Debug\netcoreapp3.1\SedolValidator.csprojAssemblyReference.cache
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\obj\Debug\netcoreapp3.1\SedolValidator.AssemblyInfoInputs.cache
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\obj\Debug\netcoreapp3.1\SedolValidator.AssemblyInfo.cs
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\obj\Debug\netcoreapp3.1\SedolValidator.csproj.CoreCompileInputs.cache
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\obj\Debug\netcoreapp3.1\SedolValidator.dll
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\obj\Debug\netcoreapp3.1\SedolValidator.pdb
+C:\Users\samo\Desktop\10FA-Assignment\Sedol\SedolValidator\obj\Debug\netcoreapp3.1\SedolValidator.genruntimeconfig.cache
